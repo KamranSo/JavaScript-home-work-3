@@ -1,0 +1,23 @@
+.tags{
+    width: 100%;
+    border: 1px solid #eeeeee;
+    display: flex;
+    padding: 5px;
+    flex-wrap: wrap;
+
+}
+.tags .tag{
+  background: d#adadc7;
+  margin: 0 5px;
+  cursor: pointer;
+  padding: 3px 7px;
+  border-radius: 5px;
+
+}
+.tags .tag i{
+    font-size: 12px;
+    cursor: pointer;
+    margin: 0 5px;
+
+
+}
